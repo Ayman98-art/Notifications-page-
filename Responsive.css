@@ -1,0 +1,213 @@
+@media (max-width: 340px) {
+    main{
+        padding: 0px;
+        width: 100%;
+    }
+    .sec-0 h1 {
+        font-size: 20px;
+    }
+    .sec-0 h2 {
+        font-size: 16px;
+    }
+    body > main > section:nth-child(2) > div.sec-01-img{
+        width: 65%;
+    }
+    .sec-01-text{
+        padding: 10px;
+    }
+    .sec-01-text h3 {
+        font-size: 16px;
+    }
+    .sec-01-text p.reacted {
+        font-size: 14px;
+    }
+    body > main > section:nth-child(3) > div.sec-01-img{
+        width: 25%;
+    }
+    body > main > section:nth-child(4) > div.sec-01-img{
+        width: 45%;
+    }
+    body > main > section.sec-01.sec-01--modify > div.sec-01-img{
+        width: 100% !important;
+    }
+    .comment-description {
+        font-size: 16px;
+        padding: 5px;
+    }
+    body > main > section:nth-child(6) > div.sec-01-img{
+        width: 25% ;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-text{
+        padding: 0px 10px 10px 10px;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-img{
+        width: 45%;
+    }
+    body > main > section:nth-child(7) > div.sec-01-img{
+        width: 75%;
+    }
+    body > main > section:nth-child(8) > div.sec-01-img{
+        width: 30%;
+    }
+    .sec-06 {
+        padding-bottom: 22px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 600px) {
+    main{
+        padding: 15px;
+    }
+    .sec-0 h1 {
+        font-size: 30px;
+    }
+    .sec-0 h2 {
+        font-size: 20px;
+    }
+    body > main > section:nth-child(2) > div.sec-01-img{
+        width: 30%;
+    }
+    .sec-01-text{
+        padding: 0px 10px 10px 10px ;
+    }
+    .sec-01-text h3 {
+        font-size: 18px;
+    }
+    .sec-01-text p.reacted {
+        font-size: 16px;
+    }
+    body > main > section:nth-child(3) > div.sec-01-img{
+        width: 15%;
+    }
+    body > main > section:nth-child(4) > div.sec-01-img{
+        width: 20%;
+    }
+    body > main > section.sec-01.sec-01--modify > div.sec-01-img{
+        width: 50% !important;
+    }
+    .comment-description {
+        font-size: 18px;
+        padding: 5px;
+    }
+    body > main > section:nth-child(6) > div.sec-01-img{
+        width: 20% ;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-text{
+        padding: 5px 10px 10px 10px;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-img{
+        width: 15%;
+        padding-top: 5px;
+    }
+    body > main > section:nth-child(7) > div.sec-01-img{
+        width: 40%;
+    }
+    body > main > section:nth-child(8) > div.sec-01-img{
+        width: 15%;
+    }
+    .sec-06 {
+        padding-bottom: 25px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 800px) {
+    main{
+        padding: 20px;
+    }
+    body > main > section:nth-child(2) > div.sec-01-img{
+        width: 18%;
+    }
+    .sec-01-text{
+        padding: 0px 10px 10px 10px ;
+    }
+    .sec-01-text h3 {
+        font-size: 18px;
+    }
+    .sec-01-text p.reacted {
+        font-size: 16px;
+    }
+    body > main > section:nth-child(3) > div.sec-01-img{
+        width: 12%;
+    }
+    body > main > section:nth-child(4) > div.sec-01-img{
+        width: 12%;
+        padding-bottom: 10px;
+    }
+    body > main > section.sec-01.sec-01--modify > div.sec-01-img{
+        width: 28% !important;
+    }
+    body > main > section.sec-01.sec-01--modify > div.sec-01-text{
+        padding-top: 8px;
+    }
+    .comment-description {
+        font-size: 20px;
+        padding: 10px;
+    }
+    body > main > section:nth-child(6) > div.sec-01-img{
+        width: 12%;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-text{
+        padding: 10px 10px 10px 10px;
+    }
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-img{
+        width: 10%;
+        padding-top: 10px;
+    }
+    body > main > section:nth-child(7) > div.sec-01-img{
+        width: 20%;
+        padding-bottom: 10px;
+    }
+    body > main > section:nth-child(8) > div.sec-01-img{
+        width: 12%;
+    }
+    .sec-06 {
+        padding-bottom: 25px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 1300px){
+    body > main > section:nth-child(2) > div.sec-01-img{
+        width: 10%;
+    }
+
+    body > main > section:nth-child(3) > div.sec-01-img{
+        width: 9%;
+    }
+
+    body > main > section:nth-child(4) > div.sec-01-img{
+        width: 8%;
+    }
+
+    body > main > section.sec-01.sec-01--modify > div.sec-01-img{
+        width: 15% !important;
+    }
+
+    body > main > section.sec-01.sec-01--modify > div.sec-01-text{
+        padding-top: 8px;
+    }
+
+    body > main > section:nth-child(6) > div.sec-01-img{
+        width: 10%;
+    }
+
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-text{
+        padding: 10px 10px 10px 10px;
+    }
+
+    body > main > section:nth-child(6) > div.commented-img > div.sec-01-img{
+        width: 8%;
+        padding-top: 10px;
+    }
+
+    body > main > section:nth-child(7) > div.sec-01-img{
+        width: 12%;
+        padding-bottom: 10px;
+    }
+
+    body > main > section:nth-child(8) > div.sec-01-img{
+        width: 10%;
+    }
+}
